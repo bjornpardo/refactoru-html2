@@ -1,0 +1,43 @@
+body {
+	background-color:gray;
+	font-family: sans-serif;
+}
+
+header {
+	color:white;
+	background-color: #2ECC71;
+	height: 200px;
+}
+
+.header-line {
+	background-color: #27AE60;
+	height:5px	;
+}
+
+.nav-bar {
+	height:40px;
+	background-color: #34495E;
+}
+
+.list-items 
+
+.nav-bar-line {
+	height:5px;
+	background-color: #2C3E50;
+}
+
+.col1 {
+	display:inline-block;
+	width:50%;
+}
+
+.col2 {
+	display:inline-block;
+	width:25%;
+	border-color: red;
+
+}
+
+.title-text {
+	font-family: sans-serif;
+}
