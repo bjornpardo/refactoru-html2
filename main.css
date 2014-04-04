@@ -120,9 +120,13 @@ td{
 	padding-left: 15px;
 	padding-right: 15px;
 	margin:10px;
+	display: table;
 }
-.td-text{
+.td-text {
 	vertical-align: middle;
+	display: table-cell;
+	vertical-align: middle;
+	padding: 5px 15px 5px 15px;
 }
 
 .td-button .td-text{
